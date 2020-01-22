@@ -18,8 +18,7 @@ public class Boletin_16 {
         // TODO code application logic here
         
         IPodeCantar perso1 =  new Persoa();
-        perso1.cantar();
-                
+        perso1.cantar();                
         IPodeCantar canario = new Canario();
         canario.cantar();
         IPodeCantar Galo = new Galo();
